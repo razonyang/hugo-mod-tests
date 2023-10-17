@@ -1,0 +1,4 @@
+github.com/razonyang/hugo-mod-bar v0.2.0 h1:SMJx310iml4kSHSE2yIjAojH4asi+OG9w2GVq6c5sLI=
+github.com/razonyang/hugo-mod-bar v0.2.0/go.mod h1:d9UnEh8UKxuwKykQk4LDvS3Lwq7PJ/av8EtTrQWwghQ=
+github.com/razonyang/hugo-mod-foo v0.2.0 h1:xDQK1JsovYBEwBFv1rmrmRUmvbS4nmmL6LY2f0OVL5A=
+github.com/razonyang/hugo-mod-foo v0.2.0/go.mod h1:WKSG6yc0adBrfPu5DSumg6jlPTk8FPhaGgYCHH3/OQ8=
