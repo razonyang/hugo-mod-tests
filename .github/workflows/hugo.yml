@@ -1,0 +1,17 @@
+on:
+  push:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+
+      - name: Update modules
+        run: hugo mod get -u
+      
+      - name: Print Hugo modules
+        run: hugo mod graph
